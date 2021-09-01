@@ -18,7 +18,6 @@
   "keywords": [
     "discord",
     "bot"
-    "discord.js"
   ],
   "author": "trb.exe",
   "license": "MIT",
@@ -27,3 +26,4 @@
   },
   "homepage": "https://trbexe.ml/cyclone/index.html"
 }
+
