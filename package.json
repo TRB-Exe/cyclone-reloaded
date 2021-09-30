@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "eris": "^0.15.1",
+    "got": "^11.8.2",
+    "moment": "^2.29.1",
+    "yuuko": "^2.3.2"
+  },
+  "name": "cyclone-reloaded-eris",
+  "version": "0.0.2",
+  "description": "Bot on eris with fun commands and more",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TRB-Exe/cyclone-reloaded.git"
+  },
+  "keywords": [
+    "discordbot",
+    "eris"
+  ],
+  "author": "trb.exe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TRB-Exe/cyclone-reloaded/issues"
+  },
+  "homepage": "https://github.com/TRB-Exe/cyclone-reloaded#readme"
+}
