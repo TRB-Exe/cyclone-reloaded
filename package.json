@@ -7,7 +7,7 @@
     "yuuko": "^2.3.2"
   },
   "name": "cyclone-reloaded-eris",
-  "version": "0.0.2",
+  "version": "0.0.2legacy",
   "description": "Bot on eris with fun commands and more",
   "main": "index.js",
   "devDependencies": {
